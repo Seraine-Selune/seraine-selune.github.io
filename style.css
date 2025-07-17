@@ -11,6 +11,11 @@ img {
   height: auto;
 }
 
+#title, #menu {
+  width: 550px;
+  height: auto;
+}
+
 .header_div {
   width: 100%;
   height: 3em;
