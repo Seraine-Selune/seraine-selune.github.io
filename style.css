@@ -11,9 +11,14 @@ img {
   height: auto;
 }
 
-#title, #menu {
+#title {
   width: 550px;
-  height: auto;
+  height: 265px;
+}
+
+#menu {
+  width: 550px;
+  height: 80px;
 }
 
 .header_div {
